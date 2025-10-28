@@ -14,4 +14,4 @@ This repository supports the project **“Assessing Urban Park Quality: A System
 
 ### 📘 Citation
 
-Won, Y., Larson, L., Hipp, A., Smith, C., Supak, S., Sachs, N. A., Rigolon, A., & Browning, M. H. E. M. (2025). *Assessing Urban Park Quality: A Systematic Literature Review of Metrics, Methods, and Equity Implications.* [OSF Registration DOI:] [10.17605/OSF.IO/4W376](https://doi.org/10.17605/OSF.IO/4W376)
+Won, Y., Larson, L., Hipp, A., Smith, C., Supak, S., Sachs, N. A., Rigolon, A., & Browning, M. H. E. M. (2025). *Assessing Urban Park Quality: A Systematic Literature Review of Metrics, Methods, and Equity Implications.* OSF Registration DOI: [10.17605/OSF.IO/4W376](https://doi.org/10.17605/OSF.IO/4W376)
